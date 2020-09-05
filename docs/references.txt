@@ -1,0 +1,7 @@
+Embedding a video in a page:
+
+[filename](assets/aquaponics.mp4 ':include')
+
+Pitch Deck:
+https://fi.co/pitch-deck?ref=producthunt
+
